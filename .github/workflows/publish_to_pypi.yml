@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/ct-tcpchat
+      url: https://pypi.org/p/ct-serialcommands
     permissions:
       id-token: write
     if: github.event_name == 'release' && github.event.action == 'published'
