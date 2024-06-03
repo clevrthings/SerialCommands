@@ -1,5 +1,6 @@
 # SerialCommands
 A Python module for seamless serial communication with devices like an Arduino or ESP, offering both non-blocking and blocking interfaces with customizable command and value callbacks.
+
 [GitHub](https://github.com/clevrthings/SerialCommands), [PyPi](https://pypi.org/project/ct-serialcommands/)
 
 ## Installation
